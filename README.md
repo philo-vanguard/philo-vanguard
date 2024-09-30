@@ -32,7 +32,7 @@ I am a Ph.D. Candidate at Beihang University (BUAA).
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&custom_title=Stats" height="192px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
   </a>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages which is public not private!
