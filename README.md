@@ -41,13 +41,12 @@ I am a Ph.D. Candidate at Beihang University (BUAA).
   <br>
   
   <p>
-   <a href="http://github-readme-streak-stats.herokuapp.com">
-     <img alt="streaks" src="http://github-readme-streak-stats.herokuapp.com?user=hsiaoko&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=monokai-metallian" alt="GitHub Streak" />
   </a>
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
   </p>
  <br>
-
 
 
 <!--
