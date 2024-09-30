@@ -9,6 +9,8 @@
 
 ---
 
+<br>
+
 ### My stack and tools :
 
 <div>
@@ -24,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
 </div>
 
+<br>
+
 ### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -34,6 +38,7 @@
   </a>
   <br>
   <b>Note:</b> The 'Top Languages' metric reflects the languages used in public repositories only, not private ones!
+  <br>
   <br>
   <br>
   <br>
