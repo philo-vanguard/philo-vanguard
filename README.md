@@ -42,7 +42,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=blue-green" alt="GitHub Streak" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
   </p>
  <br>
