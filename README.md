@@ -33,7 +33,7 @@
   <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
   </a> -->
   <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philo-vanguard&layout=compact&langs_count=8&card_width=320" />
   </a>
   <br>
   <b>Note:</b> The 'Top Languages' metric reflects the languages used in public repositories only, not private ones!
