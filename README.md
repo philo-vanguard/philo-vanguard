@@ -42,7 +42,7 @@
   
   <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&card_width=520&card_height=210&theme=dracula" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&card_width=600&card_height=210&theme=dracula" alt="GitHub Streak" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
