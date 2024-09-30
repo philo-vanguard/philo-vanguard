@@ -43,7 +43,7 @@
   
   <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=catppuccin_latte&card_width=320&card_height=210" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=catppuccin_latte&card_width=520&card_height=210" alt="GitHub Streak" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
