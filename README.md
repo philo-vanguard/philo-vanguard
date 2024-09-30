@@ -27,10 +27,10 @@
 ### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&card_width=340&hide_border=true&custom_title=Stats&theme=ayu-mirage" height="180px"/>
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&card_width=340&hide_border=true&custom_title=Stats&theme=dracula" height="180px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=360&hide_border=true&theme=ayu-mirage" height="180px"/>
+  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=360&hide_border=true&theme=dracula" height="180px"/>
   </a>
   <br>
   <b>Note:</b> The 'Top Languages' metric reflects the languages used in public repositories only, not private ones!
@@ -40,7 +40,7 @@
   
   <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&card_width=520&card_height=210&theme=ayu-mirage" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&card_width=520&card_height=210&theme=dracula" alt="GitHub Streak" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
