@@ -9,9 +9,8 @@
 
 ---
 
-<br>
 
-### My stack and tools :
+### My Stack and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -26,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/nvidia.svg" title="CUDA" alt="CUDA" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
 
 ### Github Stats ⚡
   
@@ -38,7 +36,6 @@
   </a>
   <br>
   <b>Note:</b> The 'Top Languages' metric reflects the languages used in public repositories only, not private ones!
-  <br>
   <br>
   <br>
   <br>
