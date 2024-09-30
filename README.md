@@ -30,7 +30,7 @@
   <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&card_width=340&hide_border=true&custom_title=Stats&theme=dracula" height="180px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=360&hide_border=true&theme=dracula" height="180px"/>
+  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=340&hide_border=true&theme=dracula" height="180px"/>
   </a>
   <br>
   <b>Note:</b> The 'Top Languages' metric reflects the languages used in public repositories only, not private ones!
