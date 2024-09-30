@@ -1,13 +1,11 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Ziyan)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Ziyan+Han+👋)
 
 
   
 ### About Me :
-I am a Ph.D. Candidate at Beihang University (BUAA).
-
-- I’ve been actively studying on parallel computing & graph computing. Quickly learn new information, have good analytical skills, attentive to details, work well on my own. Read much specialized literature. I like to achieve perfection in everything I do.
-- Apart from being a developer, I enjoy most of my time being outdoors. In the winter, I am an avid skier. During the warmer months, I enjoy mountain biking, and free climbing.
+- 🎓 I am a Ph.D. Candidate in School of Computer Science and Engineering at Beihang University (BUAA).
+- 🔭 My research interests include Rule Discovery, Data Management, Data Quality, DB combined AI, etc.
 
 ---
 
