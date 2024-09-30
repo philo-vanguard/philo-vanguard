@@ -35,14 +35,14 @@ I am a Ph.D. Candidate at Beihang University (BUAA).
   <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </a>
   <br>
-  <b>Note:</b> Top languages is only a metric of the languages which is public not private!
+  <b>Note:</b> The 'Most Used Languages' metric reflects the languages used in public repositories only, not private ones!
   <br>
   <br>
   <br>
   
   <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=monokai-metallian" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=blue-green" alt="GitHub Streak" />
   </a>
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
   </p>
