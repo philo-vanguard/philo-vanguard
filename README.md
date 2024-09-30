@@ -27,10 +27,10 @@
 ### Github Stats ⚡
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&card_width=340&theme=catppuccin_latte&hide_border=true&custom_title=Stats" height="180px"/>
+  <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=philo-vanguard&count_private=true&show_icons=true&card_width=340&hide_border=true&custom_title=Stats&theme=catppuccin_mocha" height="180px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=360&theme=catppuccin_latte&hide_border=true&" height="180px"/>
+  <img alt="VishalBeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philo-vanguard&langs_count=8&layout=compact&card_width=360&hide_border=true&theme=catppuccin_mocha" height="180px"/>
   </a>
 <!--   <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=philo-vanguard&layout=compact&langs_count=8&card_width=320" />
@@ -43,7 +43,7 @@
   
   <p>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&theme=catppuccin_latte&card_width=520&card_height=210" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=philo-vanguard&card_width=520&card_height=210&theme=catppuccin_mocha" alt="GitHub Streak" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/gifs/programmer.gif" width="200px"/>
