@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+Ziyan+Han+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Ziyan+Han+👋)
 
 
   
