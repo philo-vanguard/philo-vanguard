@@ -50,8 +50,6 @@
  <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=philo-vanguard)](https://git.io/streak-stats)
-
 <!--
 **philo-vanguard/philo-vanguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
