@@ -50,6 +50,9 @@
  <br>
 
 
+![](https://raw.githubusercontent.com/philo-vanguard/philo-vanguard/main/dist/github-contribution-grid-snake.svg)
+
+
 <!--
 **philo-vanguard/philo-vanguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
