@@ -4,8 +4,8 @@
 
   
 ### About Me :
-- 🎓 I am a Ph.D. Candidate in Computer Science and Engineering at Beihang University (BUAA).
-- 🔭 My research interests include Rule Discovery, Data Management, Data Quality, DB combined AI, etc.
+- 🎓 I received my Ph.D. in Computer Science and Engineering at Beihang University (BUAA).
+- 🔭 My research interests include Logic rules combined with ML models, Rule Discovery, Data Management, Data Quality, etc.
 
 ---
 
